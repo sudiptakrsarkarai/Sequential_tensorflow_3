@@ -1,2 +1,2 @@
 # Sequential_tensorflow_3
-Here is a Sequential Deep Learning Algorithm Problems and their test dataset . And Feature Engineering the data for more accuracy. Cancer Classification Prediction Model Using Tensorflow, Keras Library .
+Here is a Sequential Deep Learning Algorithm Problems and their test dataset . And Feature Engineering the data for more accuracy. Cancer Classification Prediction Model Using Tensorflow, Keras Library . And Also Introducing Certain Features of tensorflow like dropout layer and earlystopping and binary classification prediction. And Activation function as sigmoid and loss as binary crossentropy.
